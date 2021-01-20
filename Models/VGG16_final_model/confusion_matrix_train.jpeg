@@ -1,0 +1,4 @@
+,pred: COVID19,pred: NORMAL,pred: Viral_Pneumonia
+true: COVID19,883,2,44
+true: NORMAL,1,908,35
+true: Viral_Pneumonia,25,69,952
